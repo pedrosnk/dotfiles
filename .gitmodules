@@ -1,0 +1,3 @@
+[submodule ".config/nvim-edge"]
+	path = .config/nvim-edge
+	url = https://github.com/pedrosnk/nvim-edge
